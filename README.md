@@ -1,0 +1,1 @@
+This is a repository for the data analysis projects that I have done, that deal with everything from data exploration to visualization. The languages I have used are SQL and I have oscillated between Power BI and Tableau Public for data visualization.
